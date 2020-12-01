@@ -4,22 +4,24 @@
 
 파이썬 기초 문법 학습을 위한 자료입니다.
 
+모든 교육과정의 저작권은 [SuanLab](http://suanlab.com) 에 있습니다.
+
 ## 환경
 - Google Colab
 
 ## 파일 내용
  
 ### 수업 자료
-0. Google Colab, Jupyter Notebook, Markdown
-1. 파이썬 프로그래밍 언어
-2. 변수, 자료형, 연산자
-3. 문자열
-4. 리스트, 튜플, 세트, 딕셔너리 
-5. 제어문
-6. 입력과 출력
-7. 함수
-8. 객체와 클래스
-9. 모듈과 패키지
+[0. Google Colab, Jupyter Notebook, Markdown](https://www.youtube.com/watch?v=wb4F1aeZtRA)
+[1. 파이썬 프로그래밍 언어](https://www.youtube.com/watch?v=mWLoxTvDoDQ)
+[2. 변수, 자료형, 연산자](https://www.youtube.com/watch?v=a0O-TDHVPo0)
+[3. 문자열](https://www.youtube.com/watch?v=98jmfUeAje4)
+[4. 리스트, 튜플, 세트, 딕셔너리](https://www.youtube.com/watch?v=GTx9gxzUzAg)
+[5. 제어문](https://www.youtube.com/watch?v=Dvd_R4DjCho)
+[6. 입력과 출력](https://www.youtube.com/watch?v=_ByfSqzatp4)
+[7. 함수](https://www.youtube.com/watch?v=HlUWhxhC16w)
+[8. 객체와 클래스](https://www.youtube.com/watch?v=h-OwxPqjMpc)
+[9. 모듈과 패키지](https://www.youtube.com/watch?v=F1jKFsbjns0)
 
 ### 과제
 1. 파이썬 프로그래밍의 시작
