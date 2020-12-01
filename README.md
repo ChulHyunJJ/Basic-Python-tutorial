@@ -12,16 +12,16 @@
 ## 파일 내용
  
 ### 수업 자료
-[0. Google Colab, Jupyter Notebook, Markdown](https://www.youtube.com/watch?v=wb4F1aeZtRA)<br>
-[1. 파이썬 프로그래밍 언어](https://www.youtube.com/watch?v=mWLoxTvDoDQ)<br>
-[2. 변수, 자료형, 연산자](https://www.youtube.com/watch?v=a0O-TDHVPo0)<br>
-[3. 문자열](https://www.youtube.com/watch?v=98jmfUeAje4)<br>
-[4. 리스트, 튜플, 세트, 딕셔너리](https://www.youtube.com/watch?v=GTx9gxzUzAg)<br>
-[5. 제어문](https://www.youtube.com/watch?v=Dvd_R4DjCho)<br>
-[6. 입력과 출력](https://www.youtube.com/watch?v=_ByfSqzatp4)<br>
-[7. 함수](https://www.youtube.com/watch?v=HlUWhxhC16w)<br>
-[8. 객체와 클래스](https://www.youtube.com/watch?v=h-OwxPqjMpc)<br>
-[9. 모듈과 패키지](https://www.youtube.com/watch?v=F1jKFsbjns0)<br>
+&nbsp;&nbsp;&nbsp;[0. Google Colab, Jupyter Notebook, Markdown](https://www.youtube.com/watch?v=wb4F1aeZtRA)<br>
+&nbsp;&nbsp;&nbsp;[1. 파이썬 프로그래밍 언어](https://www.youtube.com/watch?v=mWLoxTvDoDQ)<br>
+&nbsp;&nbsp;&nbsp;[2. 변수, 자료형, 연산자](https://www.youtube.com/watch?v=a0O-TDHVPo0)<br>
+&nbsp;&nbsp;&nbsp;[3. 문자열](https://www.youtube.com/watch?v=98jmfUeAje4)<br>
+&nbsp;&nbsp;&nbsp;[4. 리스트, 튜플, 세트, 딕셔너리](https://www.youtube.com/watch?v=GTx9gxzUzAg)<br>
+&nbsp;&nbsp;&nbsp;[5. 제어문](https://www.youtube.com/watch?v=Dvd_R4DjCho)<br>
+&nbsp;&nbsp;&nbsp;[6. 입력과 출력](https://www.youtube.com/watch?v=_ByfSqzatp4)<br>
+&nbsp;&nbsp;&nbsp;[7. 함수](https://www.youtube.com/watch?v=HlUWhxhC16w)<br>
+&nbsp;&nbsp;&nbsp;[8. 객체와 클래스](https://www.youtube.com/watch?v=h-OwxPqjMpc)<br>
+&nbsp;&nbsp;&nbsp;[9. 모듈과 패키지](https://www.youtube.com/watch?v=F1jKFsbjns0)<br>
 
 ### 과제
 1. 파이썬 프로그래밍의 시작
